@@ -26,7 +26,7 @@ Pull requests are welcome for major changes, open an issue first to discuss what
 ---
 
 # Contributors
-  - Hardik Sharma @hardikkk-coder
+  - Hardik Sharma < hardikkk-coder
   - Ruchika Jain @Ruchikajain25
   - Prajwal Soni @Prajwal966
 
