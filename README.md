@@ -1,5 +1,7 @@
 # Terminators
 **Link of the website**: https://terminators-2021.github.io/Terminators.github.io/
+**Link of project presentation**: https://youtu.be/Irx1q_4hfl4
+**Link of project explanation**: https://youtu.be/LlJ_nZCyVd8
 
 ---
 
@@ -26,7 +28,7 @@ Pull requests are welcome for major changes, open an issue first to discuss what
 ---
 
 # Contributors
-  - Hardik Sharma < hardikkk-coder
+  - Hardik Sharma @ hardikkk-coder
   - Ruchika Jain @Ruchikajain25
   - Prajwal Soni @Prajwal966
 
