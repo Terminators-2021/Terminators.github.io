@@ -1,6 +1,6 @@
 # Terminators
 **Link of the website**: https://terminators-2021.github.io/Terminators.github.io/ <br />
-**Link of project presentation**: https://youtu.be/Irx1q_4hfl4 <br />
+**Link of project Demo**: https://youtu.be/Irx1q_4hfl4 <br />
 **Link of project explanation**: https://youtu.be/LlJ_nZCyVd8 <br />
 
 ---
